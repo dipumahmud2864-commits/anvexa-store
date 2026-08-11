@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://dipumahmud2864-commits.github.io/anvexa-store/sitemap.xml
